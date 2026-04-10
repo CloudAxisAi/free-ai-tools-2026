@@ -116,6 +116,7 @@ A curated directory of AI products that offer a **perpetual free tier** (an ongo
 - [Genuinely free AI tools (2026) — blog post](https://cloudybot.ai/blog/genuinely-free-ai-tools-2026) — Why this list exists, how we define “free forever,” and how it pairs with the GitHub directory.
 - [Hard caps vs pay-per-use AI pricing](https://cloudybot.ai/blog/hard-caps-vs-pay-per-use-ai-pricing) — What happens when “free” runs out, and how billing models differ.
 - [What hard billing caps mean](https://cloudybot.ai/blog/what-hard-billing-caps-mean) — Surprise bills vs predictable limits.
+- [AI pricing comparison (2026)](https://github.com/CloudAxisAi/ai-pricing-comparison) — Paid plans, billing models (hard cap vs metered), 30+ tools.
 - [Awesome AI agents](https://github.com/CloudAxisAi/awesome-ai-agents) — Broader landscape of agents and frameworks if you outgrow point tools.
 
 ---
